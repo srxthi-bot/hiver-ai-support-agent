@@ -1,0 +1,4 @@
+model,accuracy,weighted_precision,weighted_recall,weighted_f1
+Word TF-IDF + Logistic Regression,0.435,0.37812265512265514,0.435,0.39542768762621905
+Word + Character TF-IDF + Logistic Regression,0.445,0.4162903470798207,0.445,0.3903682190039287
+Word TF-IDF + Linear SVM,0.42,0.36325519116598926,0.42,0.3692294883550339

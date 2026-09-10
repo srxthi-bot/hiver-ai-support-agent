@@ -1,0 +1,225 @@
+example_id,customer_tweet_id,customer_text,intent,predicted_intent,classifier_confidence
+G001,2262981,@AmazonHelp Filled out and sent.,I11_other_unclear,I11_other_unclear,0.11959752790009526
+G002,2311986,@AmazonHelp https://t.co/pIZxMHZE22 https://t.co/khXa0hc1Ja,I11_other_unclear,I11_other_unclear,0.15174014081460813
+G003,637228,@117795 Hi having real problems logging in it asks for a password then a verification then another password for prime ..I went round in circles and gave up in the end cancelled the order it’s a bit frustrating.😐,I07_account,I01_order_delivery,0.10766434529158199
+G004,2298426,"@AmazonHelp Yes, I’ve just been in contact with my bank and they said there are 2 pending transactions with yourselves neither of the are for the amount of the order put through",I06_payment_billing,I10_general_information,0.12824899900227998
+G005,859612,"@AmazonHelp Order# 405-4831779-1488314
+This should be enough, isn't this?
+@115850 @115821 #PoorManagement #Disappointing service in #Diwali",I11_other_unclear,I01_order_delivery,0.11740651245563812
+G006,2910378,@116875 en mi cuenta me esta pidiendo cobro de membresia prime cuando la active en agosto que esta pasando?,I08_prime_subscription,I07_account,0.15233333202096774
+G007,355530,@117795 suggested resolution was take it back to the post office even after explaining the whole reason for me using your service...,I03_return,I01_order_delivery,0.11010978350117538
+G008,2461317,@AmazonHelp Ya llego :) https://t.co/Ivpk9C3duM,I01_order_delivery,I11_other_unclear,0.19817169284525396
+G009,2810267,Non è che per il black friday @120540 mette in promo anche la voglia di vivere?,I11_other_unclear,I11_other_unclear,0.1132695777886569
+G010,134998,@AmazonHelp I do not need it anymore now as it is will no longer meet the need it was supposed to. To think your advisers can lie to people and then fob me off is unacceptable.I could have gone out to the chemist or supermarket to buy but stayed home waiting for something that wasn't coming,I01_order_delivery,I01_order_delivery,0.11559321683368037
+G011,469396,某アニメのDVD-BOXをAmazonで購入手続きしました。予算をケチるために中古DVDを選択しました。何を買ったかは、届いてからのお楽しみ…,I10_general_information,I11_other_unclear,0.11719102251375979
+G012,1268304,@AmazonHelp The one item shipped from China! Seller claims we chose standard.  Why would we voluntarily take a slower shipping when prime is free?,I11_other_unclear,I01_order_delivery,0.11543631476596856
+G013,2500709,"@AmazonHelp Danke, ich versuchs mal.",I11_other_unclear,I11_other_unclear,0.13686212648760332
+G014,1203375,@115821  is bs my order was supposed to be here yesterday and they extended my expectation date until the 19th wth,I01_order_delivery,I01_order_delivery,0.1333278425437254
+G015,836845,@AmazonHelp Prime is advertised as next day. I’ve historically had weekend delivery from you. @117795  still delivers in under 2 hours!,I08_prime_subscription,I01_order_delivery,0.128864611045358
+G016,911231,@115821 why did y'all delay the delivery date of my package omg,I01_order_delivery,I01_order_delivery,0.12942812149477168
+G017,2488528,@115821 How are the winners decided?,I10_general_information,I01_order_delivery,0.11696477111083142
+G018,1266302,"@AmazonHelp Checked with @416512, there's no way to turn the subtitles off, so when watching with headphones? A truly annoying experience!",I10_general_information,I07_account,0.11648431447716481
+G019,1258196,@115850 I m happy because the 1 st time product of amazon recived in my smallest village today https://t.co/FfDj0Ivm4f,I10_general_information,I10_general_information,0.11156024698624109
+G020,717631,"@115850 order 403-7687017-1505112 not delivered. Delivery boy lied, no one contacted me. I don't have product, can't cancel. Money lost.",I02_missing_package,I02_missing_package,0.12130212397550869
+G021,674323,@AmazonHelp The team picked up the return package. Thank you!,I03_return,I11_other_unclear,0.12754615644532016
+G022,2718459,"@115850 ORDER # 403-0276244-3459531 your automated call  comes to informm that u can pay by net banking or by card at delivery time and delivery guy ask only ""CASH"" what a nonsense service",I06_payment_billing,I01_order_delivery,0.11756071005392266
+G023,1756782,@AmazonHelp My delivery was supposed to be here between 4-6pm Yesterday. It’s been over 24 hours already and still nothing. Really bad first experience. Hope I get this by tomorrow if not I rather cancel and go to Walmart.,I01_order_delivery,I01_order_delivery,0.15126684687577222
+G024,917010,@AmazonHelp Replied please check,I11_other_unclear,I11_other_unclear,0.13976323026704265
+G025,1387200,"@AmazonHelp I'll expect contact by this evening at the latest, as per the 12 hour promise on the two forms I have completed. I'd still like to make a proper complaint though and would like to know how I do this without more delay and let down. Thanks.",I11_other_unclear,I01_order_delivery,0.13036423333615124
+G026,2308090,Bro. I ordered something from Amazon and forgot to change the adress and it shipped to my house in Jersey...hdjsksnspwlwjslowjslekee dndbdndn,I09_cancellation_modification,I02_missing_package,0.10877004606832023
+G027,1502886,@115830 really?? Is this huge box appropriate to send me my teeny weeny earring backs? An envelope will do next time! https://t.co/gDR5tH16uf,I10_general_information,I05_wrong_damaged_item,0.11847866400667664
+G028,249765,@115850 Thanks for acknowledgement of my issue. I have given detail on link provided.,I11_other_unclear,I07_account,0.11673426000803368
+G029,1670311,@AmazonHelp are your delivery drivers allowed to just enter my house without permission @35946 really quite angry about this.,I11_other_unclear,I01_order_delivery,0.1268613683603348
+G030,1996319,@AmazonHelp プライムビデオたのしいよ、ありがとうね,I08_prime_subscription,I11_other_unclear,0.19598825714248186
+G031,815575,"@AmazonHelp I have checked, just annoyed that I'm paying for Prime &amp; my package is late. My order's been out for delivery since 10:30 yesterday morning. https://t.co/AntsGAxO5i",I01_order_delivery,I01_order_delivery,0.12705851854354103
+G032,348211,@AmazonHelp @18069 @115851 @118702 Worst service.,I11_other_unclear,I11_other_unclear,0.13065056661622274
+G033,1526897,@AmazonHelp I have the latest version of the application available in play store.  But the your voice option is not there,I10_general_information,I02_missing_package,0.10881617121489268
+G034,2686393,@AmazonHelp Just changed over to prime video,I08_prime_subscription,I08_prime_subscription,0.1385001245438516
+G035,649644,@115821 trying to buy this watch and the order doesn’t go through so i wait till i get home to order and it goes up in price by £85. Just been on phone for 20mins to customer support and they haven’t helped at all. Please tell me why this? https://t.co/Mi6GlAT7Qr,I10_general_information,I06_payment_billing,0.11057480645639657
+G036,295888,@AmazonHelp Amazon,I11_other_unclear,I11_other_unclear,0.1494741546048998
+G037,1733094,@AmazonHelp Still same. https://t.co/yudhg0rUuF,I11_other_unclear,I11_other_unclear,0.12739904209478486
+G038,447214,@AmazonHelp Alors c'est TNT livraison.,I11_other_unclear,I11_other_unclear,0.13377915221226958
+G039,2824028,"@AmazonHelp I already filled the form and i want my money refunded either today or tomorrow. I don't care how you will do that. Otherwise i will file a complaint against you that you for doing fraud with customers.
+@115850 @115821 https://t.co/moviRCARcy",I04_refund,I10_general_information,0.1190415588110138
+G040,29500,@AmazonHelp Of course I have!,I11_other_unclear,I11_other_unclear,0.13244367218164482
+G041,156810,@AmazonHelp @152011 DEAR AMAZONE FIND THE ORDER NO.-403-79045985510732 WHAT IS ISSUE ABOUT PARCEL RETURN TO UR END AND CONTAIN MOBILE IS REC AT UR LOACTION . IN YOUR WAREHOUSE TOTALLY THIEF AND LYING STAFF.WHERE IS MY MOBILE???HOW MANY DAYS MY MOBILE GET IT BACK ON ARGENT BASIS.,I03_return,I02_missing_package,0.10941935014482526
+G042,1539228,@AmazonHelp have a good weekend,I11_other_unclear,I11_other_unclear,0.12092376725416212
+G043,2960422,"@115821 filed a police report for the fake laptop you sent me and forwarded the copy of the report per your instructions... Get an email back calling the report ""invalid"". Guess the Columbus OH Police Department is fake too... #Amazon #fail",I05_wrong_damaged_item,I10_general_information,0.12285391755035005
+G044,427310,@AmazonHelp @115850 this is the third time its happening your delivery agents are not responding and even the customer service is worst.,I01_order_delivery,I05_wrong_damaged_item,0.13670361418216712
+G045,2176564,@AmazonHelp Per ordered the #XboxOneX Scorpio back on 20th Aug &amp; it still not been delivered although been promised it will be here yesterday &amp; today. It's just got good enough. I had a failed delivery today to a work address even though it's a manned reception and Otter parcels made it,I01_order_delivery,I01_order_delivery,0.13395864689207404
+G046,1496042,@116090 r u thinking us fool.I am waiting for my order from 15 days and still waiting for ur answer...,I01_order_delivery,I04_refund,0.1175812049839711
+G047,1096768,@AmazonHelp @115850 @AmazonHelp @115850 should've ordered from @118702,I11_other_unclear,I11_other_unclear,0.13000333698026748
+G048,324169,"@115817 @115821 Yeah it’s ok. UPS driver on my route must have a problem with me for some reason.  I don’t know why, all I do is pay his salary.",I01_order_delivery,I01_order_delivery,0.11976477720894838
+G049,929632,"@AmazonHelp &gt; option for the call ever, ever ending. I'm now very upset and angry. Since your staff won't tell me - how do I make a formal complaint?",I11_other_unclear,I11_other_unclear,0.117727494929772
+G050,89108,@AmazonHelp And I'm on the phone with you guys right now. :),I01_order_delivery,I05_wrong_damaged_item,0.11498457625933786
+G051,472484,"@AmazonHelp @133260 Compre el lunes un regalo para el viernes con el premium (que en teoria tarda 1 dia), y hoy, VIERNES, aun no ha llegado y ni siquiera se si va llegar hoy o el año que viene. Num seg:UX58R6__credit_card__E",I01_order_delivery,I01_order_delivery,0.11906983461076136
+G052,1714276,My new phone cases didn’t come today like they were SUPPOSED TO @115821 so now I’m crying in the club,I01_order_delivery,I01_order_delivery,0.1299095448565193
+G053,2265595,"@AmazonHelp Hi again, I just opened up the Amazon app and it showed the same thing again about revising my payment method, it keeps happening for the same item too.",I06_payment_billing,I05_wrong_damaged_item,0.11315682202804733
+G054,1540510,"@AmazonHelp Thanks for the reply. I tried this once , the guy told me over the call that it will be fixed in 1hr on Thursday. But yet to happen.",I11_other_unclear,I01_order_delivery,0.11493282225193213
+G055,755034,Je cherche un contact chez @120533 ? En mp,I11_other_unclear,I01_order_delivery,0.12266322825056418
+G056,2031057,"@AmazonHelp your locker in Perivale, #AmazonHarp is still not working. When will you fix this? It still seems to be taking deliveries https://t.co/vj3Ue2rmaf",I10_general_information,I01_order_delivery,0.12187987529755528
+G057,2484002,"@115850 Order id is 408-6158338-6870754
+
+Want the product before the delivery date.
+
+Kindly Help.",I01_order_delivery,I01_order_delivery,0.12043335011088512
+G058,457760,@116313 1冊目はすでにボロボロになってしまったので！ https://t.co/0HQ9n17vwj,I05_wrong_damaged_item,I10_general_information,0.14368499512643879
+G059,304615,"@AmazonHelp Someone placed order on Amazon with ""From &amp; To"" name of my friend and delivery address same as sender n recipient.",I07_account,I01_order_delivery,0.11654051495002246
+G060,1665804,@AmazonHelp Still nothing yet.,I07_account,I11_other_unclear,0.13364080474644077
+G061,856605,@AmazonHelp I would really like to know if I should just expect more four day turn arounds in the future for Prime.,I01_order_delivery,I11_other_unclear,0.11986965678335082
+G062,802381,@115850 terrible customer care experience today.... Rude and ill mannered executives and supervisors. They don't really help the customer.,I11_other_unclear,I01_order_delivery,0.11773855385180235
+G063,723311,@AmazonHelp Any reason why I haven’t received my packages yet?,I01_order_delivery,I01_order_delivery,0.11519714686820527
+G064,80750,"@4774 sold an iPhone to a buyer who requested return &amp; returned phone with different IMEI. Apple confirmed the phone was not the same, and had also been tampered with. @115821 is taking the buyer’s side. I’m out $600! What can I do? What are my rights? @AmazonHelp",I05_wrong_damaged_item,I01_order_delivery,0.1252802795884689
+G065,2675964,When u order 2 items for next day delivery one arrives but now the other wont be here till 9th november @115830 https://t.co/EGJVgd8db2,I01_order_delivery,I01_order_delivery,0.12803581242782572
+G066,972621,"@AmazonHelp Not only am I not getting my Air Purifier on Sunday (when I needed it), I now have this crap to deal with. Thanks for that, BTW.",I01_order_delivery,I01_order_delivery,0.11389418024002076
+G067,1973335,@AmazonHelp I ordered an item no:1__credit_card__ at the time of order it showed me different price and now different,I06_payment_billing,I10_general_information,0.1142736245152191
+G068,2074019,Amazonのミスで勝手に返品された品の返金が来ないから電話したらコンビニ払いで口座指定もしてないのにもうクレジットのところに返金しましたとか言われて今日見に行ったらやっぱり返金されてなかった,I04_refund,I11_other_unclear,0.11786388859959217
+G069,2975728,@AmazonHelp こんにちは。Android版kindleをアップデート後、起動しなくなってしまいました。「問題が発生したため、Amazon Kindleを終了します」と出ます。端末再起動とアプリの再インストール以外に、こちらで試せる対処法がありましたらご教授ください。Android4.4.2、kindleアプリは8.0.0.78です。,I10_general_information,I11_other_unclear,0.16561807560510103
+G070,297299,@AmazonHelp Social media escalation team is sham @115850 @115821 &amp; ATS team believe themselves as Gods providing fake updates &amp; none to question them,I11_other_unclear,I11_other_unclear,0.11368975142133764
+G071,1689315,@115850 @AmazonHelp Today you have lost another customer. Fed up of your delivery standards. No commitment from customer service too.,I01_order_delivery,I11_other_unclear,0.13043293711016715
+G072,2767535,"dear @AmazonHelp i have not got my order but in tracking it is showing delivered and your customer care executive is saying that order is back, who is responsible ? https://t.co/n0lwAXWWDD",I02_missing_package,I01_order_delivery,0.1216281189777362
+G073,115840,Me pregunto cuántas horas serán 24 horas para los de @116875 🤔🤔🤔,I11_other_unclear,I11_other_unclear,0.11105454718228748
+G074,1772665,Well...good to know @115821 cares enough about my bluray to ship it in a bag. I didn't need the halves of the case connected anyway... https://t.co/bB9NVADGr5,I05_wrong_damaged_item,I10_general_information,0.11907567967741321
+G075,2766438,@AmazonHelp Is there a contact number to use to speak to someone? I'm locked out of my account and the email address attached has been hacked. I'm paying for prime I can't use &amp; I have 100s of books on my kindle I don't want to lose. I've emailed twice with no reply. Thanks.,I07_account,I07_account,0.1304841197072763
+G076,1456356,@AmazonHelp ok i will wait for your call..,I11_other_unclear,I11_other_unclear,0.13412306131345475
+G077,313716,Amazonがぁぁぁぁ https://t.co/vxBnxGVDku,I11_other_unclear,I10_general_information,0.14714393732740425
+G078,2387887,@AmazonHelp I have just done that and it's telling me I've been a member since December 2016! But only just had one payment taken. Please tell me how I'm to get a refund....,I08_prime_subscription,I01_order_delivery,0.11228914293274349
+G079,842209,@320324 My pre-order of your book was cancelled by @AmazonHelp with no explanation! Has something gone wrong?,I09_cancellation_modification,I01_order_delivery,0.10981050813926332
+G080,300504,I never expected @115821 @115850 for such a cheap behaviour. Order a product few days ago but they cancelled.  #AmazonGreatIndianFestival,I09_cancellation_modification,I01_order_delivery,0.10748907950796344
+G081,420960,"@AmazonHelp Done (via the ""can't access your account"" link...)",I07_account,I07_account,0.13396228153274128
+G082,1285523,@AmazonHelp Preload wäre halt toll. Bekommen andere Plattformen ja auch hin ;),I10_general_information,I11_other_unclear,0.20473996222517496
+G083,1652466,"@AmazonHelp I am a regular Amazonian, I request your kind attention and quick resolution. I shall feel grateful.",I11_other_unclear,I11_other_unclear,0.1250738536772048
+G084,2568517,"@115833 Thanks for your presence in  INDIA, Does this works with ECHO DOT ? 🤔 https://t.co/jzB9yR9Hod",I10_general_information,I11_other_unclear,0.13303420792771078
+G085,1495223,"@AmazonHelp No, just an email saying I’ll get an email with an update. Point is, I got the notification this morn. Surely you knew before 10:26",I01_order_delivery,I05_wrong_damaged_item,0.12076424274255115
+G086,2290496,Not sure why I even bother paying for @115830 Prime. Waited all weekend for a parcel that was due Friday. Still don’t have it. Online chat service is the worst.,I01_order_delivery,I01_order_delivery,0.12910644614748276
+G087,1261105,"Hey @115821 , if my packages always get delayed, why am I paying for Prime to get 2 day shipping? 🤔",I01_order_delivery,I01_order_delivery,0.127073620110901
+G088,62158,@AmazonHelp Amazon.ca,I11_other_unclear,I11_other_unclear,0.16557075056598275
+G089,739731,@AmazonHelp I m a seller on amazon. Already open a complaint from 20 days. Nobody listens me,I11_other_unclear,I11_other_unclear,0.1265891877422469
+G090,1615508,Didn't receive prime subscription with #echodot order id 405-6016617-8745100 :( @AmazonHelp @115850,I08_prime_subscription,I11_other_unclear,0.11693000596992235
+G091,500866,@AmazonHelp I am being charged for a Prime subscription on my account that does not and has never existed. I am being told it is because another account has been using my card to pay their subscription but that is a lie and I have had that confirmed many times over,I08_prime_subscription,I07_account,0.11010369495851385
+G092,1000981,"@115850 @AmazonHelp So many Quiz have PPL taken part in,But I never Saw The Winners List4AmazonPay. Is it Fake Contests #AmazonPayAppQuiz",I10_general_information,I11_other_unclear,0.10820867028033239
+G093,1843591,@AmazonHelp We have placed an order with 2 day delivery option It's been 5-6 days and still no news about it. We contacted the delivery man on the date of delivery but he didn't came because he was not in that area and the delivery was postponed to next day but still no news of the product,I01_order_delivery,I01_order_delivery,0.1346029116544846
+G094,438688,@AmazonHelp I have a question about one of my 1 day air orders and a bit confused on it hopefully you can clarify it for me.,I11_other_unclear,I07_account,0.11756567564433855
+G095,439255,@115821 #AmazonIndia is very fraud Co. They only take money not giving service and not give refund pathetic experience don't buy from this https://t.co/TUOSnA3eqS,I04_refund,I10_general_information,0.12139307463013864
+G096,738456,@115830 when can I pre order Dunkirk? Film released months ago and unable 2 pre order yet. Any advise #dunkirk,I10_general_information,I01_order_delivery,0.11633045205394289
+G097,2492273,I love that @115830 now email you AT THE END OF THE DAY that they're delayed in delivering your package for that day.,I01_order_delivery,I01_order_delivery,0.12305439539413315
+G098,285087,@AmazonHelp No i dont,I07_account,I11_other_unclear,0.1210604626294762
+G099,2906697,@AmazonHelp Do I have pay for postage to return an item for replacement when you have sent the wrong item???,I05_wrong_damaged_item,I01_order_delivery,0.1144726405465701
+G100,2171192,@130293 Malas Madres y Moonlight dios mio con que catálogo os estáis haciendo! Le he recomendado a todo el mundo Amazon Prime Video! Ahora estoy con American Gods (una maravilla) y Hawai 5.0😁. Y en nada The Man in the High Castle😄 ¡Seguid así❤!,I08_prime_subscription,I08_prime_subscription,0.1232296464122712
+G101,2312652,@115821 @AmazonHelp done fucked up.,I11_other_unclear,I07_account,0.13135596976359995
+G102,252797,@AmazonHelp Merci pour le lien et la rapidité de votre réaction!,I11_other_unclear,I11_other_unclear,0.13432112877341068
+G103,1600978,"@AmazonHelp When you use Amazon in a different language than the one its domain is in, it does not accept addresses during checkout.",I10_general_information,I10_general_information,0.11428677064153765
+G104,1739012,@AmazonHelp I have ordered 3 x anker 6ft cables that claim “not eligible for return” why is this? @231586,I03_return,I01_order_delivery,0.12188653997297307
+G105,2600214,"Jungs, ich denke @amazonhelp hat gerade Probleme. Wir sollten für Englisch bis heute 1 Buch kaufen und 8 Leute sagen es ist LEIDER noch nicht angekommen. :D",I01_order_delivery,I11_other_unclear,0.1509735359154987
+G106,2329927,Voy por el quinto retraso en un pedido de @116928 y sumando... De que sirve tener Premium si no te lo entregan en la fecha que indican?,I01_order_delivery,I01_order_delivery,0.12490534320866312
+G107,493509,"@119356 My Order with Tracking ID 216278212094 has been ""delivered"" as per Amazon.in but I'm clueless about the whereabouts of the parcel. Help ?",I02_missing_package,I01_order_delivery,0.11990946491962032
+G108,1048122,@115850 Wanted to buy AppleMacBook Air. Priced 49k from Amazon and 43k(after 14k cashback) in paytm.Wish you could do something!  :(,I10_general_information,I01_order_delivery,0.10824173053629318
+G109,2251905,"@115850 Hi, I had by mistake started a return process for a product I had ordered. I am trying to cancel the return but unable to do so",I03_return,I03_return,0.12601823396331965
+G110,244145,"@AmazonHelp @AmazonHelp @115850 @115851 I even haven't got any correspondence for the same. No mail, no call. Failed CX. Really disappointed.",I11_other_unclear,I11_other_unclear,0.12448074852630263
+G111,1020102,@amazonhelp I seem to have to account.  1 with Prime &amp; the other without.  I want to cancel the 1 without Prime.  How?,I07_account,I07_account,0.12807530141344362
+G112,585808,"Nice to see that @115830 care about the environment.... Can't believe how much packaging they have used for a single calendar, no wonder it ""wouldn't fit through the letter box""! https://t.co/FWSeuTFe2o",I10_general_information,I05_wrong_damaged_item,0.12053115916763926
+G113,1129384,@AmazonHelp @115851 @115850 @1560 @3923 @951 @8850 I bought Moto M on @115850 n received defective mobile. No replacement provided . #NoToAmazon #AmazonCheats,I05_wrong_damaged_item,I11_other_unclear,0.1211257305440273
+G114,2829439,@115850 my Order  # 403-4091452-1595547 not delivered but Amazon website show status as delivered on Saturday.pls refund my money as soon as possible.,I02_missing_package,I02_missing_package,0.14881004365421274
+G115,804046,"@AmazonHelp Génial, colis perdu, on ne me rembourse pas et demande d’attendre jusqu'au 17 alors que je devais être livré ojd. Au top le sav!",I02_missing_package,I11_other_unclear,0.12956921942998975
+G116,81050,@AmazonHelp I had provided my contact no na plz call me on that number,I11_other_unclear,I11_other_unclear,0.11887511662038289
+G117,1367395,@118919 It is very sad and disgusting . None.. Amazon flipcart none are delivering to DARJEELING  hill. Feels isolated,I01_order_delivery,I01_order_delivery,0.11914034109770585
+G118,1564979,"@AmazonHelp What mentioned time?? 
+3-5 days or 10-15 days",I04_refund,I01_order_delivery,0.12236728804716807
+G119,1106552,#amazon #trucks have #gps #tracker so why are you telling me we don't know where your package is because it is in transit   #guaranteelate,I01_order_delivery,I01_order_delivery,0.12502450311652472
+G120,2937385,"@115850 I can book samsung j7 prime on amazon , i received a old and scratched phone",I05_wrong_damaged_item,I05_wrong_damaged_item,0.11282099144928506
+G121,1735153,@132994 @115850 3 years back had subscribed OnePlus One event on Amazon..had snagged the early invite on #NeverSettle contest..this excitement is nostalgic https://t.co/uLJYm4LeQl,I10_general_information,I11_other_unclear,0.12617394010436955
+G122,2855220,"@AmazonHelp But offering 5 dollars instead of finding out where my order is, when it was already half hour late, isn't really what I wanted",I01_order_delivery,I01_order_delivery,0.12270113504284502
+G123,2676421,@115850 no cost emi during Diwali turned out to pay me whole amount in my current bill cycle. Very frustrating,I06_payment_billing,I07_account,0.12028118357156821
+G124,2043381,@115821 locked me out of my prime account for weeks! No solution,I07_account,I07_account,0.13213078356771354
+G125,2545360,"@115850 6-7 appointment for installation of my delivery, man says he came at 5 and nobody was there",I01_order_delivery,I01_order_delivery,0.12263176885693822
+G126,1135037,"@115821, do you not understand what pre order means? I clearly ordered it on the 1st of September for it to come on the release day, ygm",I01_order_delivery,I05_wrong_damaged_item,0.11927019203440373
+G127,2814385,@AmazonHelp Marcy Flat Utility Weight Bench for Weight Training and Abs Exercises SB-315 https://t.co/KtpnoJrKwh @AmazonHelp @115821  it’s a amazon gift card,I06_payment_billing,I11_other_unclear,0.14256604658047736
+G128,2809834,"@AmazonHelp Please don't give a robotic response, just look at the price difference.. @118702",I10_general_information,I11_other_unclear,0.12719519731810297
+G129,2541773,@722705 @115850 This is the second time I received the stone !! 😐,I05_wrong_damaged_item,I01_order_delivery,0.12706410261300413
+G130,2599679,@AmazonHelp ¡mil gracias!,I11_other_unclear,I11_other_unclear,0.19324106349827902
+G131,261276,"@AmazonHelp Thank you, I emailed!",I11_other_unclear,I03_return,0.12726541524382412
+G132,1406554,@115821 what is the best email to contact you regarding amazon prime? Getting charged but never registered for it?,I08_prime_subscription,I01_order_delivery,0.12691492806744545
+G133,127446,@115821 my order delivery date is today but my order is not delivered...,I01_order_delivery,I02_missing_package,0.18155573802746847
+G134,1520420,@AmazonHelp Yes! It suppose to be last Sunday. It was a luggage for today’s flight.,I01_order_delivery,I01_order_delivery,0.1317671104996848
+G135,900886,"@AmazonHelp My instances have been stopped for so many months, that too under free tier. Not sure why u guys charging me",I06_payment_billing,I01_order_delivery,0.12214361522127283
+G136,2671800,"@118919 ORDER # 405-3511566-0877939
+Sold by: Mivi Official
+ORDER PLACED: 7 October 2017
+Expected by 1 Nov Not yet dispatched.",I01_order_delivery,I01_order_delivery,0.11157637390870301
+G137,831763,@115850 Why you guys not crediting the cashback for order I'd 408-3076163-4925152,I06_payment_billing,I01_order_delivery,0.12318821599106423
+G138,382761,@AmazonHelp @115850 there is a major problem with customer support team.. had a quite disturbing experience today...,I11_other_unclear,I11_other_unclear,0.12559598481373327
+G139,421906,"@AmazonHelp Per un pacco al momento dell'ordine mi dava come consegna oggi, poi diventato giovedì. L'altro inizialmente previsto per ieri arriverà oggi",I01_order_delivery,I11_other_unclear,0.12488307380521649
+G140,273436,@AmazonHelp  https://t.co/TZQTwPSJ67,I11_other_unclear,I11_other_unclear,0.18497958791985153
+G141,954294,@AmazonHelp USPS. It's too late. Something I needed by tomorrow. You so easily could have resolved this on Thurs,I01_order_delivery,I01_order_delivery,0.11789495466471744
+G142,2376144,@AmazonHelp is there a problem with the website? Having trouble not loading or loading very slow.,I10_general_information,I01_order_delivery,0.11256490648903719
+G143,99854,"@AmazonHelp Pedido hecho el día 24. Fecha prevista en ese momento, martes 28 (teniendo premium). Martes nada y pone que miercoles 29 se entregará. Estamos a 30 y sigue poniendo que entrega prevista ayer. Y en la web de @137864 pone estado ""Paso por plataforma"". Que verguenza",I01_order_delivery,I01_order_delivery,0.12959755649651164
+G144,644823,"Truly weird @AmazonHelp email address. I was hoping for at least ""somebody"" but I got ""nobody"" 🤣 https://t.co/tCYr7D4Dcd",I11_other_unclear,I11_other_unclear,0.12385861006346983
+G145,274092,@115850 Really disappointed @115850 #badcustomerservice asking me to courier the wrong items back! #pathetic,I03_return,I05_wrong_damaged_item,0.11436138017348908
+G146,594613,"@AmazonHelp No sign of my order. Tracker says damaged and returned to shipper, yet I’ve never seen it. When was it damaged?  When will it arrive.?",I05_wrong_damaged_item,I01_order_delivery,0.11395965599792648
+G147,1441922,"Awful service from @115830 Order not fulfilled, no explaination as to why. Seriously wondering if Prime is worth the money.",I01_order_delivery,I01_order_delivery,0.11287405437179733
+G148,385656,"@115830 this has happened again, nothing delivered. 
+I don't have time to keep making these phone calls. https://t.co/vKpwpbLpvV",I01_order_delivery,I10_general_information,0.12360430530495434
+G149,231310,@115850 don't you think that your shopping charges are to high?,I10_general_information,I01_order_delivery,0.1165538892518214
+G150,1128023,"@AmazonHelp あ💦びっくりしました💦
+なんだか最長のお届け予定日がかなり遠くて…
+「発送しました」って連絡からが長いんだなー…と💦
+
+素早い対応、ありがとうございます！",I01_order_delivery,I11_other_unclear,0.20686470595648435
+G151,2510707,@115850 when does the iPhone X come back in stock?,I10_general_information,I10_general_information,0.12268214120715727
+G152,1210997,".@AmazonHelp haven’t gotten my refund from weeks ago. My order was cancelled, I want my money.",I04_refund,I09_cancellation_modification,0.13007186367748164
+G153,998253,"Yo @AmazonHelp, I have two packages that were 'delivered' on Weds but no sign. No red slip either. None of my neighbours have them either",I02_missing_package,I02_missing_package,0.11439841745810654
+G154,317271,"It's so hard to deal with #Amazon.com please understand customer's value,  please stop to deal with #AmazonIndia it's bad experience ever https://t.co/VZdKCYwKRD",I01_order_delivery,I11_other_unclear,0.1094187122736441
+G155,2670730,@115850 @AmazonHelp Check the screenshots,I11_other_unclear,I11_other_unclear,0.13305329284342055
+G156,2526982,"DONT TELL ME A PACKAGE IS DELIVERED TO MY HOUSE WHEN ITS CLEARLY NOT 
+
+I’m so annoyed with Amazon rn",I02_missing_package,I01_order_delivery,0.11959401394711988
+G157,230611,@AmazonHelp When placed the order it was for 2 SNES and the delivery date was 9/29.  My preorder quantity was changed to 1 but the date was not adjusted,I09_cancellation_modification,I01_order_delivery,0.14943563843843452
+G158,2626975,"@AmazonHelp Yes, all of these steps. Apartment complex manager had postal employee look in every parcel pending box and it is nowhere.",I02_missing_package,I01_order_delivery,0.11334075567639454
+G159,832625,@AmazonHelp Still telling me it’s out for delivery yesterday!,I01_order_delivery,I07_account,0.12762185511496624
+G160,280455,@115850 they make mistake we suffer. They said pay balance will be goodwill in addition to bank refund. Now denying. @115851 https://t.co/xDRjA7fWLZ,I06_payment_billing,I05_wrong_damaged_item,0.11964757424595127
+G161,2350879,@AmazonHelp Thanks so much TP! This will make him even happier Christmas day! X,I11_other_unclear,I11_other_unclear,0.13472178969802925
+G162,2553956,@115821 🗣Better stop playin with my cake pan! They promised it’ll be delivered today. I­t­ better be😂,I01_order_delivery,I01_order_delivery,0.13504809602714607
+G163,644026,@AmazonHelp Provide me the link here,I11_other_unclear,I07_account,0.12781197765876912
+G164,2419736,"@115821 Hey, my account was hacked and I can't get in - who do I talk to about this?  I can't even log in to ask about logging in!",I07_account,I07_account,0.12470878122598907
+G165,134971,@AmazonHelp Awaiting your positive response.,I11_other_unclear,I11_other_unclear,0.13643760032714417
+G166,833635,@115821 Order # 408-2079068-9433156,I11_other_unclear,I01_order_delivery,0.1204324329475545
+G167,300570,O final de semana será devorando Origem! Valeu @117086 https://t.co/yRWaNspeBH,I10_general_information,I11_other_unclear,0.14775798564878206
+G168,780290,@115821 worst online shopping website. They make false promises to customer and deliver defective products. Worst customer service executive,I05_wrong_damaged_item,I11_other_unclear,0.12648842391311968
+G169,2689280,@116875 Hice mis pedidos y ahora me bloquearon mi cuenta.,I07_account,I08_prime_subscription,0.1415783758573701
+G170,1241094,"#iPhone8AppQuiz hey @115850 @AmazonHelp ..hello people. I have'nt slept yet, still waiting for the results. Please let us know. Thnk u☺🤗🙏",I10_general_information,I01_order_delivery,0.12802393436916587
+G171,1609112,@AmazonHelp Your staff on Sundays need training to be nice to customers.,I11_other_unclear,I01_order_delivery,0.12088545926317734
+G172,2852200,@AmazonHelp J'viens d'envoyer a votre support :),I11_other_unclear,I11_other_unclear,0.14262838847257492
+G173,2958565,@116875 Me urge soporte técnico y no puedo comunicarme porque pide contraseña que no me reconoce su sistema,I07_account,I07_account,0.13957656952259245
+G174,2236191,@AmazonHelp Hi! You never actually did bother following up with me on this. Really not helping your case here.,I11_other_unclear,I01_order_delivery,0.11365000710240125
+G175,752943,"Oye @116875, mi paquete fue robado. AYURA",I02_missing_package,I08_prime_subscription,0.1178012266378682
+G176,2609893,"@AmazonHelp I go to the link, but it doesn't show me the order.",I07_account,I07_account,0.10478179550369186
+G177,2944331,"When @115821 spoils the Christmas surprise you bought your son 🙄😒 Seriously, WHY would you deliver a package at this time of year with the name of the contents on the box?!?!  😩😡 So annoyed. #amazonfail https://t.co/c5Peoh16jU",I10_general_information,I05_wrong_damaged_item,0.14262178685897603
+G178,1389970,"Reçu en deux jours, merci @120533 ! Je vais essayer ce petit casque de chez @285427 😊😉 https://t.co/YIOeEaZlLC",I01_order_delivery,I11_other_unclear,0.14525139299628104
+G179,2471309,"@AmazonHelp ... me renvoie vers une autre plateforme! Pas cool! ... du coup, en gros, autant ne pas acheter le statut prime?",I08_prime_subscription,I10_general_information,0.11992227086742689
+G180,619914,@AmazonHelp acho que vidas muito boas da rainha @188343 :),I10_general_information,I11_other_unclear,0.13158134071131644
+G181,1379444,@115830 got my Fast 8 DVD preordered. Pressed play on DVD player get an hour in and it’s ALREADY damaged!!!! https://t.co/NHnVtjWfN6,I05_wrong_damaged_item,I05_wrong_damaged_item,0.12478266747884026
+G182,232363,"@AmazonHelp Everytime the same thing, check the records i have contacted through Twitter many times . Even i have filled the forms twice or thrice now",I11_other_unclear,I11_other_unclear,0.11906331676657636
+G183,2930626,"@AmazonHelp To Amazon customer service, by using the form in Your website..",I11_other_unclear,I11_other_unclear,0.1087670617116762
+G184,348150,"Worst courier services in the market @115821  amazon transportation services, please contact seller,ask for other services other than ATS.",I01_order_delivery,I11_other_unclear,0.11292061849062522
+G185,2461332,"@AmazonHelp 1) Which office this is coming from of Amazon?
+2) Issues are related to Delivery agents tagging goods as delivered n not delivering
+3) They tend to give parcels to security for no particular reason
+4) Ur robots in the South of India speak with a heavy accent, more like singlish",I01_order_delivery,I01_order_delivery,0.1281498811206689
+G186,2471631,@116324 Hi I have just had a delivery attempted message from Amazon for a parcel you have. I think the driver has gone to the wrong house again as no one has been here and there is no calling card. Can you help?,I01_order_delivery,I01_order_delivery,0.10665340956457446
+G187,1499838,"@117086 bom  demais  
+vou  fazer  minhas  compras dia  10",I11_other_unclear,I10_general_information,0.11430759145004438
+G188,77465,"@AmazonHelp package was supposed to arrive last night. Now says don't contact until Saturday, but tracking info hasn't updated in 2 days. Anything you can do or help with? Even an eta?",I01_order_delivery,I01_order_delivery,0.12728359493669783
+G189,238147,"@AmazonHelp Harry Potter series, La la land, Annabelle, Conjuring 2",I11_other_unclear,I11_other_unclear,0.1321792009632109
+G190,2930623,@115821 yoy guys dont care your customre i give to order for my book if you have not in stock so infrm me first of all but no you take my full mony than today you send me msg for cancell my book order 😡 https://t.co/oBrhgUr74q,I09_cancellation_modification,I01_order_delivery,0.11144104593306943
+G191,1334979,"ORDER # 206-8387037-4784361 STILL not fulfilled. Unsuitable packaging, Broken packaging, Missing order.  @115830 @AmazonHelp",I05_wrong_damaged_item,I01_order_delivery,0.12180745773502664
+G192,2582995,@AmazonHelp This is all I have https://t.co/pWrSms20a9,I11_other_unclear,I11_other_unclear,0.13038541550231586
+G193,2288926,"What do you do when @116090 sends you a box of returns instead of a printer? Oh, and with customer information left on it! https://t.co/bQtOXQAPou",I05_wrong_damaged_item,I10_general_information,0.12370286750163516
+G194,1477421,"@115850 your services are degrading day by day right from delivery to returns. 
+Delivery people are like local gundas who are very rude.",I01_order_delivery,I01_order_delivery,0.1419140869525674
+G195,1127991,@AmazonHelp The delivery date on or before 25.10.17 while reached before 3 days at nearest hub. I have several request for early delivery but not done,I01_order_delivery,I01_order_delivery,0.12958928523322527
+G196,2894683,"Je sais pas quoi en penser 🤔 c'est curieux... Pas une arnaque je suppose, puisque du coup mon profit est plus large que supposer mais c'est pas très logique @120533 https://t.co/Q5RGta0opp",I10_general_information,I08_prime_subscription,0.12845549591341704
+G197,2676853,@115850 the order details in photo attached. Had ordered 4 pcs but recd only 3 pcs till date. When will I receive balance pc? Await reply! https://t.co/l2HAUZFGC1,I02_missing_package,I10_general_information,0.11225871304158255
+G198,1479445,@AmazonHelp Quella prevista sì.,I01_order_delivery,I11_other_unclear,0.13464326339665741
+G199,726607,"@147807
+ordered laptop by taking prime membership to be delivered in a day.NOT YET RECEIVED.This is how PRIME MEMBERS are treated. https://t.co/iir8FHmbm8",I01_order_delivery,I01_order_delivery,0.12334919985580461
+G200,2385414,@AmazonHelp  https://t.co/4IaFAnRE2n,I11_other_unclear,I11_other_unclear,0.15915862743529408

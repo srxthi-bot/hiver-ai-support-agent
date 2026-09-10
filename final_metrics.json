@@ -1,0 +1,13 @@
+{
+  "golden_set_size": 200,
+  "intent_model": "TF-IDF + Logistic Regression",
+  "intent_oof_accuracy": 0.435,
+  "intent_oof_weighted_f1": 0.3954,
+  "retrieval_success_leakage_safe": 0.985,
+  "escalation_accuracy": 0.695,
+  "escalation_precision": 0.8298,
+  "escalation_recall": 0.4239,
+  "escalation_f1": 0.5612,
+  "auto_handle_rate": 0.765,
+  "human_quality_score": 4.31
+}

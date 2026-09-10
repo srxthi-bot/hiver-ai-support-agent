@@ -1,0 +1,16 @@
+decision_id,decision,rationale
+1,Selected AmazonHelp,AmazonHelp had the highest usable customer-to-support interaction volume in the dataset.
+2,Built customer→support conversation pairs,Paired inbound customer messages with subsequent AmazonHelp responses to create historical resolution examples.
+3,Used 11 intents,The taxonomy balances common support themes with an Other/Unclear fallback.
+4,Included Other/Unclear intent,Some customer messages cannot be reliably mapped to a specific support intent.
+5,Created a 200-example golden set,200 manually labeled examples satisfy the required 150–250 range.
+6,Used stratified OOF intent evaluation,Training and evaluation must be separated to avoid measuring memorization.
+7,Selected TF-IDF + Logistic Regression,It achieved the strongest weighted F1 among tested intent baselines.
+8,Added retrieval over historical conversations,Historical AmazonHelp responses provide grounding for reply drafting.
+9,Prevented retrieval self-match leakage,Golden examples were excluded from retrieval during evaluation.
+10,Added explicit human-request escalation,Customers explicitly requesting an agent should not be auto-handled.
+11,Added sensitive account/payment escalation,Security and payment-sensitive cases require safer human handling.
+12,Added serious/repeated issue escalation,Severe product problems and repeatedly unresolved issues are higher-risk.
+13,Added retrieval safety threshold,Very low retrieval similarity is treated as insufficient evidence for safe automation.
+14,Kept escalation V2 frozen,Further tuning on the same golden set could overfit evaluation results.
+15,Used human quality evaluation,"20 examples were manually rated on groundedness, correctness, relevance and helpfulness."

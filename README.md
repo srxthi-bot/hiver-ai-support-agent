@@ -126,7 +126,9 @@ These historical interactions are used for:
 ---
 
 ## Golden Set
+### Golden-set sampling and labeling
 
+The 200-example golden set was sampled from the AmazonHelp customer-support interactions to cover the observed intent distribution while retaining difficult and ambiguous cases. Each example was manually assigned one intent from the 11-intent taxonomy, along with an escalation decision and escalation reason. The labels were reviewed for missing values and duplicate IDs before evaluation.
 A manually labelled evaluation set of **200 examples** was created.
 
 Each golden-set example contains:
